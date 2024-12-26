@@ -1,0 +1,1 @@
+select 'Jeeva' as name from dual
