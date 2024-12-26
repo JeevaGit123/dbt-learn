@@ -1,0 +1,1 @@
+select 'Namakkal' as city from dual
