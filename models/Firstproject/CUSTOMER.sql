@@ -1,0 +1,1 @@
+select 'Jeeva' as customer_name from dual
