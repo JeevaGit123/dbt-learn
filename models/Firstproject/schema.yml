@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: customer
+    description: "Customer details"
+    columns:
+      - name: customer_id
+        description: "cust"
+        tests:
+          - not_null

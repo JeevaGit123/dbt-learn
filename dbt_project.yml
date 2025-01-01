@@ -43,6 +43,9 @@ models:
 
     Firstproject:
      +materialized: table
+     tests:
+      -- unique
+      -- not null
 
     Staging_area: 
       +materialized : table
