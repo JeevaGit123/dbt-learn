@@ -43,3 +43,14 @@ models:
 
     Firstproject:
      +materialized: table
+
+    Staging_area: 
+      +materialized : table
+      +schema: RRP_STAGING
+
+    Dharma_learn:
+      +materialized : table
+      +schema : DHARMA_LEARN
+
+    
+
